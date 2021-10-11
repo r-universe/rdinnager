@@ -18,3 +18,8 @@
 	url = https://github.com/rdinnager/rbff
 	shallow = true
 	registered = true
+[submodule "rtweet"]
+	path = rtweet
+	url = https://github.com/ropensci/rtweet
+	shallow = true
+	registered = false
