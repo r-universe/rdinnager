@@ -1,5 +1,11 @@
 [
   {
     "package": "slimr"
+  },
+  {
+    "package": "immosaic"
+  },
+  {
+    "package": "rbff"
   }
 ]
