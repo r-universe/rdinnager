@@ -8,6 +8,11 @@
 	url = https://github.com/rdinnager/slimr
 	shallow = true
 	registered = true
+[submodule "immosaic"]
+	path = immosaic
+	url = https://github.com/rdinnager/immosaic
+	shallow = true
+	registered = true
 [submodule "rbff"]
 	path = rbff
 	url = https://github.com/rdinnager/rbff
