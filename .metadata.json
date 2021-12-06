@@ -3,9 +3,12 @@
     "package": "slimr"
   },
   {
-    "package": "immosaic"
+    "package": "impac"
   },
   {
     "package": "rbff"
+  },
+  {
+    "package": "trampoline"
   }
 ]

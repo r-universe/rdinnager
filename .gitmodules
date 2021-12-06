@@ -8,14 +8,19 @@
 	url = https://github.com/rdinnager/slimr
 	shallow = true
 	registered = true
-[submodule "immosaic"]
-	path = immosaic
-	url = https://github.com/rdinnager/immosaic
+[submodule "impac"]
+	path = impac
+	url = https://github.com/rdinnager/impac
 	shallow = true
 	registered = true
 [submodule "rbff"]
 	path = rbff
 	url = https://github.com/rdinnager/rbff
+	shallow = true
+	registered = true
+[submodule "trampoline"]
+	path = trampoline
+	url = https://github.com/rdinnager/trampoline
 	shallow = true
 	registered = true
 [submodule "rtweet"]
