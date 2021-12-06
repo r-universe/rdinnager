@@ -2,12 +2,6 @@
   {
     "package": "rtweet",
     "url": "https://github.com/ropensci/rtweet",
-    "via": ["immosaic"],
-    "from": "immosaic"
-  },
-  {
-    "package": "rtweet",
-    "url": "https://github.com/ropensci/rtweet",
     "via": ["impac"],
     "from": "impac"
   }
