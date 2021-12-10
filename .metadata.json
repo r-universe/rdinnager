@@ -9,6 +9,7 @@
     "package": "rbff"
   },
   {
-    "package": "trampoline"
+    "package": "trampoline",
+    "oncran": false
   }
 ]
