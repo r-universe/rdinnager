@@ -23,8 +23,3 @@
 	url = https://github.com/rdinnager/trampoline
 	shallow = true
 	registered = true
-[submodule "rtweet"]
-	path = rtweet
-	url = https://github.com/ropensci/rtweet
-	shallow = true
-	registered = false
