@@ -38,3 +38,13 @@
 	url = https://github.com/rdinnager/fibre
 	shallow = true
 	registered = true
+[submodule "learnr"]
+	path = learnr
+	url = https://github.com/rstudio/learnr
+	shallow = true
+	registered = false
+[submodule "learnrhash"]
+	path = learnrhash
+	url = https://github.com/rundel/learnrhash
+	shallow = true
+	registered = false

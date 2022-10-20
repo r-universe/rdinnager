@@ -1,0 +1,14 @@
+[
+  {
+    "package": "learnr",
+    "url": "https://github.com/rstudio/learnr",
+    "via": ["fofpack"],
+    "from": "fofpack"
+  },
+  {
+    "package": "learnrhash",
+    "url": "https://github.com/rundel/learnrhash",
+    "via": ["fofpack"],
+    "from": "fofpack"
+  }
+]
