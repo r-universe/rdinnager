@@ -11,5 +11,14 @@
   {
     "package": "trampoline",
     "oncran": true
+  },
+  {
+    "package": "phyf"
+  },
+  {
+    "package": "fofpack"
+  },
+  {
+    "package": "fibre"
   }
 ]

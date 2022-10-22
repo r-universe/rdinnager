@@ -23,3 +23,18 @@
 	url = https://github.com/rdinnager/trampoline
 	shallow = true
 	registered = true
+[submodule "phyf"]
+	path = phyf
+	url = https://github.com/rdinnager/phyf
+	shallow = true
+	registered = true
+[submodule "fofpack"]
+	path = fofpack
+	url = https://github.com/rdinnager/fofpack
+	shallow = true
+	registered = true
+[submodule "fibre"]
+	path = fibre
+	url = https://github.com/rdinnager/fibre
+	shallow = true
+	registered = true
