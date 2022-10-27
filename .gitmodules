@@ -48,3 +48,8 @@
 	url = https://github.com/rundel/learnrhash
 	shallow = true
 	registered = false
+[submodule "tidysdm"]
+	path = tidysdm
+	url = https://github.com/rdinnager/tidysdm
+	shallow = true
+	registered = false

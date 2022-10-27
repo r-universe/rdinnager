@@ -10,5 +10,11 @@
     "url": "https://github.com/rundel/learnrhash",
     "via": ["fofpack"],
     "from": "fofpack"
+  },
+  {
+    "package": "tidysdm",
+    "url": "https://github.com/rdinnager/tidysdm",
+    "via": ["fofpack"],
+    "from": "fofpack"
   }
 ]
