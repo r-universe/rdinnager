@@ -38,6 +38,16 @@
 	url = https://github.com/rdinnager/fibre
 	shallow = true
 	registered = true
+[submodule "bayou"]
+	path = bayou
+	url = https://github.com/uyedaj/bayou
+	shallow = true
+	registered = false
+[submodule "cgalMeshes"]
+	path = cgalMeshes
+	url = https://github.com/stla/cgalMeshes
+	shallow = true
+	registered = false
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr

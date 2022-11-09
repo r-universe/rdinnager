@@ -1,5 +1,17 @@
 [
   {
+    "package": "bayou",
+    "url": "https://github.com/uyedaj/bayou",
+    "via": ["fibre"],
+    "from": "fibre"
+  },
+  {
+    "package": "cgalMeshes",
+    "url": "https://github.com/stla/cgalMeshes",
+    "via": ["fibre"],
+    "from": "fibre"
+  },
+  {
     "package": "learnr",
     "url": "https://github.com/rstudio/learnr",
     "via": ["fofpack"],
@@ -10,6 +22,12 @@
     "url": "https://github.com/rundel/learnrhash",
     "via": ["fofpack"],
     "from": "fofpack"
+  },
+  {
+    "package": "phyf",
+    "url": "https://github.com/rdinnager/phyf",
+    "via": ["fibre"],
+    "from": "fibre"
   },
   {
     "package": "tidysdm",
