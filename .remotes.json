@@ -12,6 +12,12 @@
     "from": "fibre"
   },
   {
+    "package": "ggtree",
+    "url": "https://github.com/YuLab-SMU/ggtree",
+    "via": ["phyf"],
+    "from": "phyf"
+  },
+  {
     "package": "learnr",
     "url": "https://github.com/rstudio/learnr",
     "via": ["fofpack"],
@@ -34,5 +40,11 @@
     "url": "https://github.com/rdinnager/tidysdm",
     "via": ["fofpack"],
     "from": "fofpack"
+  },
+  {
+    "package": "treeio",
+    "url": "https://github.com/GuangchuangYu/treeio",
+    "via": ["phyf", "ggtree"],
+    "from": "phyf"
   }
 ]

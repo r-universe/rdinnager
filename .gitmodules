@@ -48,6 +48,11 @@
 	url = https://github.com/stla/cgalMeshes
 	shallow = true
 	registered = false
+[submodule "ggtree"]
+	path = ggtree
+	url = https://github.com/YuLab-SMU/ggtree
+	shallow = true
+	registered = false
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
@@ -61,5 +66,10 @@
 [submodule "tidysdm"]
 	path = tidysdm
 	url = https://github.com/rdinnager/tidysdm
+	shallow = true
+	registered = false
+[submodule "treeio"]
+	path = treeio
+	url = https://github.com/GuangchuangYu/treeio
 	shallow = true
 	registered = false
