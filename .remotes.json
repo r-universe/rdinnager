@@ -14,6 +14,12 @@
   {
     "package": "ggtree",
     "url": "https://github.com/YuLab-SMU/ggtree",
+    "via": ["fibre", "phyf"],
+    "from": "fibre"
+  },
+  {
+    "package": "ggtree",
+    "url": "https://github.com/YuLab-SMU/ggtree",
     "via": ["phyf"],
     "from": "phyf"
   },
@@ -40,6 +46,12 @@
     "url": "https://github.com/rdinnager/tidysdm",
     "via": ["fofpack"],
     "from": "fofpack"
+  },
+  {
+    "package": "treeio",
+    "url": "https://github.com/GuangchuangYu/treeio",
+    "via": ["fibre", "phyf", "ggtree"],
+    "from": "fibre"
   },
   {
     "package": "treeio",
