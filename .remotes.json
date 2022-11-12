@@ -1,17 +1,5 @@
 [
   {
-    "package": "bayou",
-    "url": "https://github.com/uyedaj/bayou",
-    "via": ["fibre"],
-    "from": "fibre"
-  },
-  {
-    "package": "cgalMeshes",
-    "url": "https://github.com/stla/cgalMeshes",
-    "via": ["fibre"],
-    "from": "fibre"
-  },
-  {
     "package": "ggtree",
     "url": "https://github.com/YuLab-SMU/ggtree",
     "via": ["fibre", "phyf"],
