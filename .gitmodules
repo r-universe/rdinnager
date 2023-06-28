@@ -1,55 +1,37 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/rdinnager/universe
-	shallow = true
 	branch = HEAD
 [submodule "slimr"]
 	path = slimr
 	url = https://github.com/rdinnager/slimr
-	shallow = true
-	registered = true
 [submodule "impac"]
 	path = impac
 	url = https://github.com/rdinnager/impac
-	shallow = true
-	registered = true
 [submodule "rbff"]
 	path = rbff
 	url = https://github.com/rdinnager/rbff
-	shallow = true
-	registered = true
 [submodule "trampoline"]
 	path = trampoline
 	url = https://github.com/rdinnager/trampoline
-	shallow = true
-	registered = true
 [submodule "phyf"]
 	path = phyf
 	url = https://github.com/rdinnager/phyf
-	shallow = true
-	registered = true
 [submodule "fofpack"]
 	path = fofpack
 	url = https://github.com/rdinnager/fofpack
-	shallow = true
-	registered = true
 [submodule "fibre"]
 	path = fibre
 	url = https://github.com/rdinnager/fibre
-	shallow = true
-	registered = true
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
-	shallow = true
 	registered = false
 [submodule "learnrhash"]
 	path = learnrhash
 	url = https://github.com/rundel/learnrhash
-	shallow = true
 	registered = false
 [submodule "tidysdm"]
 	path = tidysdm
 	url = https://github.com/rdinnager/tidysdm
-	shallow = true
 	registered = false
