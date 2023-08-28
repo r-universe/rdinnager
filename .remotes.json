@@ -6,10 +6,22 @@
     "from": "fofpack"
   },
   {
+    "package": "learnr",
+    "url": "https://github.com/rstudio/learnr",
+    "via": ["sdmpack"],
+    "from": "sdmpack"
+  },
+  {
     "package": "learnrhash",
     "url": "https://github.com/rundel/learnrhash",
     "via": ["fofpack"],
     "from": "fofpack"
+  },
+  {
+    "package": "learnrhash",
+    "url": "https://github.com/rundel/learnrhash",
+    "via": ["sdmpack"],
+    "from": "sdmpack"
   },
   {
     "package": "phyf",
@@ -22,5 +34,11 @@
     "url": "https://github.com/rdinnager/tidysdm",
     "via": ["fofpack"],
     "from": "fofpack"
+  },
+  {
+    "package": "tidysdm",
+    "url": "https://github.com/rdinnager/tidysdm",
+    "via": ["sdmpack"],
+    "from": "sdmpack"
   }
 ]
