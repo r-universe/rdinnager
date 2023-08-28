@@ -5,9 +5,6 @@
 [submodule "fibre"]
 	path = fibre
 	url = https://github.com/rdinnager/fibre
-[submodule "fofpack"]
-	path = fofpack
-	url = https://github.com/rdinnager/fofpack
 [submodule "impac"]
 	path = impac
 	url = https://github.com/rdinnager/impac
@@ -25,6 +22,9 @@
 [submodule "rbff"]
 	path = rbff
 	url = https://github.com/rdinnager/rbff
+[submodule "sdmpack"]
+	path = sdmpack
+	url = https://github.com/rdinnager/sdmpack
 [submodule "slimr"]
 	path = slimr
 	url = https://github.com/rdinnager/slimr
