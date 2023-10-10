@@ -16,11 +16,5 @@
     "url": "https://github.com/rdinnager/phyf",
     "via": ["fibre"],
     "from": "fibre"
-  },
-  {
-    "package": "tidysdm",
-    "url": "https://github.com/rdinnager/tidysdm",
-    "via": ["sdmpack"],
-    "from": "sdmpack"
   }
 ]

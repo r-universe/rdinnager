@@ -28,10 +28,6 @@
 [submodule "slimr"]
 	path = slimr
 	url = https://github.com/rdinnager/slimr
-[submodule "tidysdm"]
-	path = tidysdm
-	url = https://github.com/rdinnager/tidysdm
-	registered = false
 [submodule "trampoline"]
 	path = trampoline
 	url = https://github.com/rdinnager/trampoline
