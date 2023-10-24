@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/rdinnager/universe
 	branch = HEAD
+[submodule "ENMTools"]
+	path = ENMTools
+	url = https://github.com/danlwarren/ENMTools
+	registered = false
 [submodule "fibre"]
 	path = fibre
 	url = https://github.com/rdinnager/fibre

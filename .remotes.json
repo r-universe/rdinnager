@@ -1,5 +1,11 @@
 [
   {
+    "package": "ENMTools",
+    "url": "https://github.com/danlwarren/ENMTools",
+    "via": ["tidysdm"],
+    "from": "tidysdm"
+  },
+  {
     "package": "learnr",
     "url": "https://github.com/rstudio/learnr",
     "via": ["sdmpack"],
