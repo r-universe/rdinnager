@@ -6,9 +6,6 @@
 	path = ENMTools
 	url = https://github.com/danlwarren/ENMTools
 	registered = false
-[submodule "biocman"]
-	path = biocman
-	url = https://github.com/rdinnager/biocman
 [submodule "fibre"]
 	path = fibre
 	url = https://github.com/rdinnager/fibre
