@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rdinnager/universe
+	url = https://github.com/rdinnager/rdinnager.r-universe.dev
 	branch = HEAD
 [submodule "ENMTools"]
 	path = ENMTools
