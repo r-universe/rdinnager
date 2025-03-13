@@ -32,7 +32,6 @@
 [submodule "slimr"]
 	path = slimr
 	url = https://github.com/rdinnager/slimr
-	branch = 0.4.0
 [submodule "tidysdm"]
 	path = tidysdm
 	url = https://github.com/rdinnager/tidysdm
