@@ -2,24 +2,12 @@
 	path = .registry
 	url = https://github.com/rdinnager/rdinnager.r-universe.dev
 	branch = HEAD
-[submodule "ENMTools"]
-	path = ENMTools
-	url = https://github.com/danlwarren/ENMTools
-	registered = false
 [submodule "fibre"]
 	path = fibre
 	url = https://github.com/rdinnager/fibre
 [submodule "impac"]
 	path = impac
 	url = https://github.com/rdinnager/impac
-[submodule "learnr"]
-	path = learnr
-	url = https://github.com/rstudio/learnr
-	registered = false
-[submodule "learnrhash"]
-	path = learnrhash
-	url = https://github.com/rundel/learnrhash
-	registered = false
 [submodule "phyf"]
 	path = phyf
 	url = https://github.com/rdinnager/phyf
